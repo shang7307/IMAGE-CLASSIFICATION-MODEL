@@ -27,4 +27,4 @@ After training, the CNN is evaluated on the test dataset to measure its performa
 
 OUTPUT:
 
-C:\Users\007tg\OneDrive\Pictures\Screenshots
+https://1drv.ms/i/c/7110b59e544ab931/IQBaFexuLLcjSYJxpuWwtBBZATHsZcOeTI7fuEvMFaAWdb8?e=hdoyg0
