@@ -27,4 +27,4 @@ After training, the CNN is evaluated on the test dataset to measure its performa
 
 OUTPUT:
 
-https://1drv.ms/i/c/7110b59e544ab931/IQBaFexuLLcjSYJxpuWwtBBZATHsZcOeTI7fuEvMFaAWdb8?e=hdoyg0
+<img width="865" height="555" alt="Screenshot 2026-01-04 161422" src="https://github.com/user-attachments/assets/ceb85a33-c3cf-4d30-9420-913ed45cf63d" />
