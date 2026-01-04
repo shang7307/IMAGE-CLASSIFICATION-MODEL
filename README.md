@@ -25,3 +25,6 @@ The model is compiled with an appropriate loss function and optimizer, and train
 
 After training, the CNN is evaluated on the test dataset to measure its performance. Evaluation metrics such as accuracy and loss are used to determine how effectively the model classifies unseen images. This task demonstrates the complete workflow of building an image classification system using CNNs and fulfills the internship requirement of delivering a functional deep learning model with performance evaluation.
 
+OUTPUT:
+
+
